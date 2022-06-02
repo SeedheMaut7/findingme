@@ -1,0 +1,56 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-size: large;
+}
+
+
+.top-container {
+    background-color: #9BA3EB;
+
+}
+
+.middle-container {
+    text-align: center;
+}
+
+.bottom-container {
+    text-align: center;
+
+}
+
+h1 {
+    display: inline-block;
+    margin-top: 2em;
+    font-size: 4em;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+.coding {
+    height: 10em;
+
+}
+
+.profile-img {
+    height: 17em;
+}
+
+.main {
+    height: 52em;
+
+}
+
+.skillrow-img {
+    height: 10em;
+}
+.p1{
+    font-size: 33px;
+
+}
+.p2{
+font-size: 23px;
+}
+.p3{
+font-size: 23px;
+}
